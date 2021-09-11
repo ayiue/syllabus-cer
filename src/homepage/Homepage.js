@@ -35,7 +35,7 @@ export class Homepage extends Component {
                                     <Icon type="right-circle" /> 选课系统
                                 </Button>
                                 <br /><br />
-                                <p style={{fontWeight: 'bold', color: 'red'}}>选课结束（第三周）前请选择此项</p>
+                                <p style={{fontWeight: 'bold', color: '#94070A'}}>选课结束（第三周）前请选择此项</p>
                             </Card>
                             <br />
                         </Col>
